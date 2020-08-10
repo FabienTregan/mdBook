@@ -1,8 +1,8 @@
 # mdBook
 
 **mdBook** is a command line tool and Rust crate to create books using Markdown
-files. It's very similar to Gitbook but written in
-[Rust](http://www.rust-lang.org).
+(following the [CommonMark](https://commonmark.org/) specification).
+It's very similar to Gitbook but written in [Rust](http://www.rust-lang.org).
 
 What you are reading serves as an example of the output of mdBook and at the
 same time as a high-level documentation.
